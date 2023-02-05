@@ -19,7 +19,7 @@ A semester-long project for CSULB's CECS 378 - Intro to Computer Security Princi
 	* Given everyone's skillsets and coding capabilities, the wp vuln scan/exploit tool is an
 	  obtainable project for us to complete within a single semester.
 
-	* the WordPress ecosystem is mature and we should be able to readily research and find
+	* The WordPress ecosystem is mature and we should be able to readily research and find
 	  documentation as needed.
 --------------------------------------------------------------------------------------
 ## HOW?
